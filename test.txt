@@ -1,2 +1,2 @@
-This is my another commit
+This is my again a new commit
 And here we go with commit number 2
